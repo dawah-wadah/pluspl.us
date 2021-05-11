@@ -1,13 +1,14 @@
 {
   "plus": [
-    "Yay!",
-    "Woot woot!",
+    "Good Shit!",
+    "My N-Word",
     "Great job!",
     "_Nice_.",
     "Woo hoo!",
-    "Awesome!",
+    "Awesome Sauce!",
     "Congrats!",
-    ":tada:"
+    ":tada:",
+    "Oh Shit Git"
   ],
   "plus_points": [
     "{thing} now has {points_string}!",
@@ -15,27 +16,29 @@
   ],
   "minus": [
     "Womp womp.",
-    "Ouch.",
+    "HAH GOTEM",
+    "Call the ambulance!!!",
     "Oof.",
     "Yikes.",
     ":frowning:",
-    "Bummer.",
+    "Big Yikes.",
     "Ope.",
-    "Oh no!"
+    "Oh no!",
+    "Skybladder sends his regards"
   ],
   "minus_points": [
     "{thing} now has {points_string}.",
     "{thing} is down to {points_string}."
   ],
-  "equals":[
-    "{thing} is currently at {points_string}."
-  ],
+  "equals": ["{thing} is currently at {points_string}."],
   "self": [
     "Nice try, {thing}",
     "We've got a cheater over here!",
-    "Don't even try me",
+    "Are you fucking kidding me",
+    "This is why we can't have nice things",
     "Great! You now have -∞ points!",
     "{thing} has been banned from Slack.",
-    "{thing}--"
+    "{thing}--",
+    "Everyone disliked that..."
   ]
 }
